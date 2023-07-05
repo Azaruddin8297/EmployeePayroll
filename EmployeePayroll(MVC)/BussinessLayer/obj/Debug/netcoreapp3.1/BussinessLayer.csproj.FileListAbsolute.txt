@@ -1,0 +1,15 @@
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.AssemblyReference.cache
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+D:\CFP\MVC\EmployeePayroll(MVC)\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
