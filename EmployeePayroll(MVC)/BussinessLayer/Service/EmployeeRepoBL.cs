@@ -39,5 +39,43 @@ namespace BussinessLayer.Service
                 throw;
             }
         }
+         public EmployeeModel GetAllEmployeesbyId(int id)
+        {
+            try
+            {
+                return employeeRepo.GetAllEmployeesbyId(id);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public EmployeeModel UpdateEmployee(EmployeeModel employee)
+        {
+            try
+            {
+                return employeeRepo.UpdateEmployee(employee);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+        public EmployeeModel Delete(int id)
+        {
+            try
+            {
+                return employeeRepo.Delete(id);
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }
+
+
     }
 }

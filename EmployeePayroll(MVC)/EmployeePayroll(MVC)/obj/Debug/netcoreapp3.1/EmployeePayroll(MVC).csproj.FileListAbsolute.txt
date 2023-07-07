@@ -129,3 +129,6 @@ D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\bin\Debug\netcoreapp3.1\Bus
 D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
 D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Register.cshtml.g.cs
 D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Employee\GetAllEmployees.cshtml.g.cs
+D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Update.cshtml.g.cs
+D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Employee\GetAllEmployeesbyId.cshtml.g.cs
+D:\CFP\MVC\EmployeePayroll(MVC)\EmployeePayroll(MVC)\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Delete.cshtml.g.cs

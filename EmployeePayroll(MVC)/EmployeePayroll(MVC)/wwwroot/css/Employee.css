@@ -1,0 +1,9 @@
+﻿.col-md-4 {
+    diaplay: flex;
+    justify-content: center;
+    background-color: lightblue;
+   /* color: azure;
+    text-decoration: from-font;
+    border-radius: 4px;
+    padding: 10px 20px;*/
+}

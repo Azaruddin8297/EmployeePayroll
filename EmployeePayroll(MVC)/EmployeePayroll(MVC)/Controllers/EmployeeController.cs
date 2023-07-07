@@ -52,6 +52,60 @@ namespace EmployeePayroll_MVC_.Controllers
                 throw;
             }
         }
+        [HttpGet]
+        public IActionResult GetAllEmployeesbyId(int id)
+        {
+            try
+            {
+                EmployeeModel employee = employeeRepoBL.GetAllEmployeesbyId(id);
+                return View(employee);
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
+        }
 
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            EmployeeModel model = employeeRepoBL.GetAllEmployeesbyId(id);
+            return View(model);
+        }
+        [HttpPost]
+        public IActionResult Update(EmployeeModel model)
+        {
+            try
+            {
+                    employeeRepoBL.UpdateEmployee(model);              
+                    return View(model);
+
+            }
+            catch (System.Exception)
+            {
+                throw;
+            }
+        }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            EmployeeModel model = employeeRepoBL.GetAllEmployeesbyId(id);
+            return View(model);
+        }
+        [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public IActionResult DeleteConfirm(int id)
+        {
+            try
+            {
+                employeeRepoBL.Delete(id);
+                return RedirectToAction("GetAllEmployees");
+            }
+            catch (System.Exception)
+            {
+
+                throw;
+            }
+        }
     }
 }

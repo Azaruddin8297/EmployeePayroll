@@ -9,5 +9,8 @@ namespace RepositoryLayer.Interface
     {
         public EmployeeModel RegisterEmployee(EmployeeModel employee);
         public IEnumerable<EmployeeModel> GetAllEmployees();
+        public EmployeeModel GetAllEmployeesbyId(int id);
+        public EmployeeModel UpdateEmployee(EmployeeModel employee);
+        public EmployeeModel Delete(int id);
     }
 }
